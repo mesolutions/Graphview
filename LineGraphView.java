@@ -15,6 +15,9 @@
  * along with GraphView.  If not, see <http://www.gnu.org/licenses/lgpl.html>.
  *
  * Copyright Jonas Gehring
+ * 
+ * Modified by:
+ * Copyright © 2015 ZOHO Corporation.
  */
 
 package com.jjoe64.graphview;
